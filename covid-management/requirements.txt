@@ -7,7 +7,7 @@ matplotlib==3.2.1
 argparse==1.1
 scipy==1.4.1
 sklearn==0.0
-pillow==7.2.0
+pillow==8.2.0
 cloudant==2.13.0
 twilio==6.44.1
 ibm-cos-sdk==2.6.3
